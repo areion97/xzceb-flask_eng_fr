@@ -1,5 +1,5 @@
 ---
 applications:
- - name: ibmlearner_translation_app
+ - name: my_beautiful_app
    random-random: true
    memory: 64M

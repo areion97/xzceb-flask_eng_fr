@@ -18,7 +18,6 @@ language_translator = LanguageTranslatorV3(
 language_translator.set_service_url(url)
 class Translator():
 
-
     def english_to_french(self,english_text):
         french_text = language_translator.translate(
         text=english_text,

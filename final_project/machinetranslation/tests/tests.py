@@ -1,6 +1,5 @@
 import unittest
 import json
-from translator import Translator
 
 class TestStringMethods(unittest.TestCase):
     def test_positive(self):
